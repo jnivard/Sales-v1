@@ -8,4 +8,5 @@ public class SalesWeek {
 	//add line 5
 	
 	//add line 7 local
+	add line 8 remote
 	}
